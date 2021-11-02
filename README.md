@@ -1,5 +1,4 @@
-# python-
-Alphabets
+
 'A' alphabet using python
 
 for i in range(7):
